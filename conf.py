@@ -1,0 +1,1 @@
+ANALYSIS_DIR = '/Volumes/Seagate/pks_xtend'
